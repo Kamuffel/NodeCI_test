@@ -2,4 +2,4 @@
 
 Travis CI:
 
-[![Build Status](https://api.travis-ci.org/Kamuffel/NodeCI_test.svg?branch=master)](https://api.travis-ci.org/Kamuffel/NodeCI_test.svg?branch=master)
+[![Build Status](https://travis-ci.org/Kamuffel/NodeCI_test.svg?branch=master)](https://travis-ci.org/Kamuffel/NodeCI_test.svg?branch=master)
