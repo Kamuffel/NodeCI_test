@@ -1,6 +1,6 @@
 let http   = require('http');
 let m_date = require('./mod_date');
-let fs     = require('fs');
+et fs     = require('fs');
  
 function onRequest(request, response)
 {
